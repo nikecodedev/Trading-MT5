@@ -1,0 +1,9 @@
+CLAUDE.md
+USAGE_EXAMPLES.md
+
+__pycache__/
+.env
+venv/
+results/
+.claude/
+settings.local.json
